@@ -1,0 +1,12 @@
+# Install unpinned (per the assignment's macOS note). On Windows you may pin versions.
+#   pip install -r requirements.txt
+opencv-python
+numpy
+numba
+matplotlib
+pillow
+keyboard
+pyvirtualcam
+mediapipe
+
+# Also required (not a pip package): OBS Studio — provides the virtual-camera backend.
